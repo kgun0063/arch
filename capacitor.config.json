@@ -1,0 +1,6 @@
+{
+  "appId": "com.arch.hub",
+  "appName": "A.R.C.H",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
